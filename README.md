@@ -20,4 +20,4 @@ If you wish, you can also download the official GS1 Resolver at the link below:
 
 Follow and leave your comments.
 
-![GS1 Digital Link](imagens/GS1-Digital-Link-01.jpg)
+![GS1 Digital Link](images/GS1-Digital-Link-01.jpg)
