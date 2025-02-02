@@ -19,3 +19,5 @@ If you wish, you can also download the official GS1 Resolver at the link below:
 - [Official GS1 Resolver](https://github.com/gs1/GS1_DigitalLink_Resolver_CE)
 
 Follow and leave your comments.
+
+![GS1 Digital Link](imagens/GS1-Digital-Link-01.jpg)
