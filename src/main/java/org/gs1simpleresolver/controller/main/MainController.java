@@ -1,4 +1,4 @@
-package org.gs1simpleresolver.controller;
+package org.gs1simpleresolver.controller.main;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.stereotype.Controller;
@@ -41,6 +41,8 @@ public class MainController {
         headers.setLocation(URI.create("https://www.example.com"));
 
         // Retorna uma resposta com código de status 302 (Found)
-        return new ResponseEntity<>(headers, HttpStatus.FOUND);
+        return new ResponseEntity<>(headers, HttpStatus.TEMPORARY_REDIRECT);
     }
+	
+    
 }
